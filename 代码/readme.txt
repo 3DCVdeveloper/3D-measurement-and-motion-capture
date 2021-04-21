@@ -1,0 +1,3 @@
+openni：数据获取以及处理好的数据
+code：人体提取代码
+openpose-master：openpose源码需要编译
